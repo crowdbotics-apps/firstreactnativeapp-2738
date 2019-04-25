@@ -1,0 +1,3 @@
+rootProject.name = 'firstreactnativeapp_2738'
+
+include ':app'
